@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\redmi\\Documents\\Unreal Projects\\SingWithGuraUE\\Source\\SingWithGuraUE\\SingWithGuraUE.Build.cs",
+		"C:\\Users\\redmi\\Documents\\Unreal Projects\\SingWithGuraUE\\Source\\SingWithGuraUE.Target.cs",
+		"C:\\Users\\redmi\\Documents\\Unreal Projects\\SingWithGuraUE\\Source\\SingWithGuraUEEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SingWithGuraUE",
+			"Path": "..\\Source\\SingWithGuraUE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SingWithGuraUEEditor",
+			"Path": "..\\Source\\SingWithGuraUEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
