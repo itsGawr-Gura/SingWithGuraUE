@@ -11,6 +11,9 @@
     <None Include="..\..\Source\SingWithGuraUEEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -37,6 +40,15 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\SingWithGuraUE\SingWithGuraUE.h">
       <Filter>Source\SingWithGuraUE</Filter>
+    </ClCompile>
+    <Filter Include="Source\SingWithGuraUE\Private">
+      <UniqueIdentifier>{5670C083-2EA9-3E21-A0F3-9B044C040825}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SingWithGuraUE\Private\MainMenuWidget.cpp">
+      <Filter>Source\SingWithGuraUE\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SingWithGuraUE\Private\MainMenuWidget.h">
+      <Filter>Source\SingWithGuraUE\Private</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
