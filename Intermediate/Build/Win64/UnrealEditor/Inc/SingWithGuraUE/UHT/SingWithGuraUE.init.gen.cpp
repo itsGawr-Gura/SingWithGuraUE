@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeSingWithGuraUE_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x4FF8A7DA,
-				0x6462899C,
+				0x69562FBA,
+				0xADFDBA9E,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_SingWithGuraUE.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_SingWithGuraUE.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SingWithGuraUE(Z_Construct_UPackage__Script_SingWithGuraUE, TEXT("/Script/SingWithGuraUE"), Z_Registration_Info_UPackage__Script_SingWithGuraUE, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4FF8A7DA, 0x6462899C));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SingWithGuraUE(Z_Construct_UPackage__Script_SingWithGuraUE, TEXT("/Script/SingWithGuraUE"), Z_Registration_Info_UPackage__Script_SingWithGuraUE, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x69562FBA, 0xADFDBA9E));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

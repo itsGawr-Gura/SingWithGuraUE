@@ -50,5 +50,14 @@
     <ClCompile Include="..\..\Source\SingWithGuraUE\Private\MainMenuWidget.h">
       <Filter>Source\SingWithGuraUE\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\SingWithGuraUE\Private\SettingsMenuWidget.cpp">
+      <Filter>Source\SingWithGuraUE\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SingWithGuraUE\Public">
+      <UniqueIdentifier>{0CEC6096-FA84-3013-A94E-3DBF41073F26}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SingWithGuraUE\Public\SettingsMenuWidget.h">
+      <Filter>Source\SingWithGuraUE\Public</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

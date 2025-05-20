@@ -4,6 +4,7 @@
 #include "Blueprint/UserWidget.h"
 #include "MainMenuWidget.generated.h"
 
+
 class UButton;
 
 UCLASS() //фиол. выд. макросы
@@ -22,4 +23,6 @@ protected:
     // Обработчик нажатия кнопки
     UFUNCTION()
     void OnExitClicked();
+
 };
+
